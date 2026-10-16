@@ -22,3 +22,5 @@ document.querySelector('#close-person').addEventListener('click',()=>personDialo
 const projectDialog=document.querySelector('#project-dialog');let projectOpener=null;
 document.querySelectorAll('[data-open-project]').forEach(button=>button.addEventListener('click',()=>{projectOpener=button;projectDialog.showModal()}));
 document.querySelector('#close-project').addEventListener('click',()=>projectDialog.close());projectDialog.addEventListener('close',()=>projectOpener?.focus());projectDialog.addEventListener('click',e=>{if(e.target===projectDialog){const r=projectDialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)projectDialog.close()}});
+
+document.querySelectorAll('[data-trip]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-trip]').forEach(other=>{const selected=other===button;other.classList.toggle('active',selected);other.setAttribute('aria-pressed',String(selected));document.querySelector('#trip-'+other.dataset.trip).hidden=!selected})}));
