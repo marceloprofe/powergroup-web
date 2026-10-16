@@ -7,3 +7,35 @@
 .evolution{background:#eee8e0}.evolution-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px}.evolution-grid h3{font-size:23px;line-height:1.2;margin:20px 0 12px}.evolution-grid p,.strategy-note p{font-size:14px;color:#716777}.strategy-note{margin-top:35px;border-left:3px solid var(--purple);padding-left:22px;max-width:700px}.people-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:18px;margin:30px 0 55px}.person{min-width:0}.person-avatar{aspect-ratio:1;border-radius:80px 80px 12px 12px;display:grid;place-items:center;background:#d1bedf;font-family:monospace;font-size:46px;color:#503065;margin-bottom:16px}.person:nth-child(2n) .person-avatar{background:#edc2dc;color:#7c375f}.person>.tag{font-size:7px}.person h3{font-size:27px;margin:8px 0 0}.person>p{font-size:12px;color:#716777}.person details{border-top:1px solid #c8becf;font-size:11px;padding-top:12px}.person summary{cursor:pointer;font-weight:700}.person details p{font-size:12px;color:#716777}@media(max-width:900px){.people-grid{grid-template-columns:repeat(3,1fr)}.evolution-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:650px){.people-grid{grid-template-columns:1fr 1fr;gap:25px 16px}.evolution-grid{grid-template-columns:1fr}}
 
 .project-details{margin-top:24px;border-top:1px solid var(--line);padding-top:18px}.project-details summary{cursor:pointer;font-size:13px;font-weight:700;display:flex;justify-content:space-between}.project-details h4{font-size:14px;margin:23px 0 8px}.project-stage{background:#f1eaf5;border-radius:10px;padding:17px;margin-top:20px}.project-stage strong{font-size:12px}.project-stage p{font-size:12px;margin-bottom:0}
+
+/* Identidad Power Group y lectura ampliada */
+:root{--paper:#101018;--ink:#faf6ff;--purple:#b38aff;--pink:#f58bc9;--line:#41354f}
+body{font-size:18px;color:var(--ink);background:#101018}
+.nav{background:#101018;border-color:#3f304c}.brand{font-size:22px}.brand img{width:62px;height:62px}nav{font-size:16px;gap:24px}.nav-tool{border-color:#bc91f1;background:#251b33}
+.hero{background:radial-gradient(ellipse at 85% 40%,#542f6c50,transparent 60%),#101018}
+.hero-art{background:radial-gradient(ellipse,#713b8850,transparent 70%)}.orbit{border-color:#ab68d0}.orbit-two{border-color:#7e58b4}.robot-photo{border-color:#ad7ce1;box-shadow:0 18px 70px #a74adc30}.photo-label{background:#22172e}
+h1{font-size:clamp(70px,8.2vw,122px)}h1 em{color:#f18acb}h2 em{color:#bd97ff}
+.eyebrow,.hero .eyebrow{font-size:13px;letter-spacing:1.7px;color:#d4b9f6}
+.intro{font-size:21px;color:#d8cee1;max-width:490px}.hero-foot{font-size:11px;line-height:1.6;color:#d1bedc}.hero-actions{gap:22px}
+.button{font-size:16px;padding:17px 24px}.dark{background:#e193d2;color:#1a1122}.dark:hover{background:#c49bf7;color:#1a1122}.light{background:#faf4ff;color:#251331}.light:hover{background:#e7c4ff;color:#251331}
+.text-link{font-size:16px;color:#efb4e2}.sticker{background:#ed8bcc;color:#21122b;font-size:14px}.art-caption{font-size:11px;color:#d6bae7}.photo-label{font-size:12px}
+.values-strip{background:#4c286c;color:#fff;font-size:16px;padding-top:23px;padding-bottom:23px;border-block:1px solid #8d53af}
+.about-copy,.project-info p,.place-panels p,.process p,.skill-detail p,.section-title>p,.evolution-grid p,.strategy-note p{font-size:18px;color:#d6cbdf;line-height:1.75}
+.big-copy{font-size:28px;color:#fff;line-height:1.5}.about-notes h3{color:#fff;font-size:21px}.about-notes p{font-size:17px}.about-notes span{font-size:16px}
+.project{background:#1d1729;border-color:#4c385f}.tag{font-size:12px;line-height:1.6;color:#e0b3fa}.project-info h3{font-size:32px}
+.scorer-visual{background:linear-gradient(135deg,#382053,#171425);color:#f6baeb}.mini-brand,.scorer-visual>span:last-child{font-size:12px;letter-spacing:1.5px}
+.editor-note{font-size:15px!important;color:#c8bad3!important;line-height:1.65}.section-note{font-size:16px;color:#cbbbd8}
+.filters button{font-size:16px;padding:11px 20px;background:#1e182a;color:#e5d8ef;border-color:#68507c}.filters button.active{background:#bc8df1;color:#1b1027;border-color:#bc8df1}
+.place{background:#24152f}.place .eyebrow{color:#ddc5f0}.place h2 em{color:#f195d0}.place-links{font-size:17px}.place-mark{font-size:13px}.place-panels article{border-color:#5c3a70}
+.process h3{font-size:25px}.process article>span{font-size:25px}
+.skills{background:#1e152a}.skill-detail{background:#2a1f39;border:1px solid #604177}.skill-options button{border-color:#5d426c;color:#d5b8ec;font-size:16px}.skill-options button span{color:#f6edff;font-size:24px}.skill-options button.active{background:#7246a3;color:white}.skill-placeholder span{font-size:12px;line-height:1.6}.skill-placeholder p{font-size:16px}
+.evolution{background:#17121f}.evolution-grid h3{font-size:26px}.strategy-note{border-color:#d388db}
+.person-avatar{background:linear-gradient(145deg,#583374,#332246);color:#f1d8ff}.person:nth-child(2n) .person-avatar{background:linear-gradient(145deg,#793e6e,#44213f);color:#ffd7f1}
+.person>.tag{font-size:10px}.person h3{font-size:31px}.person>p{font-size:17px;color:#d4c4df}.person details{border-color:#634774}.person summary{font-size:15px;line-height:1.6}.person details p{font-size:16px;color:#dacde3}
+.project-details summary{font-size:17px;gap:12px}.project-details h4{font-size:20px}.project-stage{background:#33213f}.project-stage strong{font-size:16px}.project-stage p{font-size:16px}
+.gallery-item b{font-size:21px}.gallery-item small{font-size:11px;line-height:1.6;letter-spacing:1px}
+.contact{background:linear-gradient(125deg,#522b78,#7e306d)}.contact h2 em{color:#ffc4ed}.contact .eyebrow{color:#f0d8fa}
+footer{font-size:15px}footer p{line-height:1.7}footer small{color:#ccbdd7;font-size:14px}footer>span{font-size:11px;color:#dbc5e9}
+.dialog-top h2{font-size:21px}.dialog-top button,.dialog-bottom button,.dialog-bottom{font-size:16px}
+@media(max-width:900px){nav{font-size:14px;gap:17px}.nav-tool{padding:11px 14px}}
+@media(max-width:650px){.brand{font-size:20px}.brand img{width:54px;height:54px}#menu{font-size:16px;border-color:#75548a;color:#f9efff}nav{background:#17101f;font-size:18px}.nav-tool{font-size:17px}.hero .eyebrow{font-size:11px;line-height:1.8}h1{font-size:74px;letter-spacing:-4px}.intro{font-size:19px}.hero-foot{font-size:10px}.hero-actions{gap:22px}.text-link{font-size:16px}.hero-art{margin-top:30px}.sticker{font-size:12px;max-width:160px}.art-caption{font-size:10px}.values-strip{font-size:15px}.about-copy,.project-info p,.place-panels p,.process p,.skill-detail p,.section-title>p,.evolution-grid p,.strategy-note p{font-size:18px}.big-copy{font-size:25px}.about-notes{grid-template-columns:1fr;gap:15px}.about-notes p{font-size:17px}.filters button{font-size:16px}.skill-options button span{font-size:22px}.person>.tag{font-size:9px}.person h3{font-size:29px}.person summary{font-size:15px}.contact .eyebrow{font-size:11px;line-height:1.8}.dialog-top h2{font-size:17px}.dialog-bottom button{font-size:14px}footer{font-size:15px}}
