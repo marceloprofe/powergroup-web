@@ -56,3 +56,6 @@ uruguay-49.jpg | 20260519_125730.jpg | Contamos nuestra historia | Una entrevist
 uruguay-50.jpg | 20260519_125735.jpg | Robótica frente a las cámaras | Integrantes del equipo responden preguntas en el taller junto a sus robots y al prototipo de arqueología.
 uruguay-51.jpg | 20260519_125754.jpg | Nuestros proyectos en los medios | Una entrevista con micrófonos de Tevediez y Canal 4; los robots y el Depresor acompañan la presentación.
 uruguay-52.jpg | 20260519_131323.jpg | Un equipo con corazón | Dos robots junto a la camiseta de Bruna, banderines de Uruguay y la frase: Un equipo con corazón puede vencer cualquier obstáculo.
+uruguay-53.jpg | 20251031_120812.jpg | Una entrevista en el Ceilab | Integrantes de Power Group conversan con una periodista ante una cámara, con el prototipo del proyecto sobre la mesa del Ceilab.
+uruguay-54.jpg | 20251031_172849.jpg | Revisamos nuestros prototipos | Estudiantes y un acompañante conversan en el Ceilab junto a dos estructuras del proyecto, una computadora y sus mecanismos.
+uruguay-55.jpg | 20251031_172852.jpg | Ideas para seguir construyendo | Otra vista del intercambio sobre los prototipos en el Ceilab, con las herramientas y la pista de robótica al fondo.
